@@ -27,7 +27,7 @@ This repository contains Macros for controllers based on the [GP2040-CE](https:/
 
 Each page includes a string of text that can be copied into the GP2040-CE web configurator. The raw values are also included and can be entered manually.
 
-You can also download all the macros as text files from the [Releases Tab](https://github.com/OngoGablogian/Legends_Z-A_Macros/releases)
+You can also download all the macros as text files from the [Releases Tab](https://github.com/OngoGablogian/Legends_Z-A_Macros/releases).
 
 <img src="/Macro-Images/Macro_Paste.gif" />
 
@@ -35,7 +35,7 @@ You can also download all the macros as text files from the [Releases Tab](https
 > These macros were made for the Switch 2 version of the game. If you are playing on an original Switch, wait times for loading screens will likely need to be adjusted.
 
 > [!CAUTION]
-> Be aware that the cutscenes for the day and night cycle will desync some of these macros, specifically the ones that involve character movement.
+> Be aware that the cut scenes for the day and night cycle will de-sync some of these macros, specifically the ones involving character movement.
 
 ----
 
