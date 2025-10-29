@@ -1,6 +1,6 @@
 # Pokémon Legends: Z-A - Macros for GP2040-CE Controllers
 
-This repository contains Macros for controllers based on the [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) firmware that helps automate AFK shiny hunting in Pokémon Legends: Z-A.
+This repository contains Macros for controllers based on the [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) firmware that helps automate shiny hunting in Pokémon Legends: Z-A.
 
 ----
 
@@ -31,16 +31,16 @@ This repository contains Macros for controllers based on the [GP2040-CE](https:/
 
 <img src="/Macro-Images/Macro_Paste.gif" />
 
-# Note:
+## Map Zoom Info:
 
 * For macros that make use of fast traveling, you'll need to have the map zoomed all the way out (right analog stick down).
 
-<img src="/Macro-Images/Map_Zoom.png" />
+<img src="/Macro-Images/Map_Zoom.png" width="100"/>
 
 ----
 
 > [!WARNING]  
-> These macros were made for the Switch 2 version of the game. If you are playing on an original Switch, wait times for loading screens will likely need to be adjusted.
+> These macros were made for the Switch 2 Edition of the game. If you are playing on an original Switch, wait times for loading screens will likely need to be adjusted.
 
 > [!CAUTION]
 > Be aware that the cut scenes for the day and night cycle will de-sync some of these macros, specifically the ones involving character movement.
