@@ -25,11 +25,19 @@ This repository contains Macros for controllers based on the [GP2040-CE](https:/
 
 ## How to Use:
 
-Each page includes a string of text that can be copied into the GP2040-CE web configurator. The raw values are also included and can be entered manually.
+* Each page includes a string of text that can be copied into the GP2040-CE web configurator. The raw values are also included and can be entered manually.
 
-You can also download all the macros as text files from the [Releases Tab](https://github.com/OngoGablogian/Legends_Z-A_Macros/releases).
+* You can also download all the macros as text files from the [Releases Tab](https://github.com/OngoGablogian/Legends_Z-A_Macros/releases).
 
 <img src="/Macro-Images/Macro_Paste.gif" />
+
+# Note:
+
+* For macros that make use of fast traveling, you'll need to have the map zoomed all the way out (right analog stick down).
+
+<img src="/Macro-Images/Map_Zoom.png" />
+
+----
 
 > [!WARNING]  
 > These macros were made for the Switch 2 version of the game. If you are playing on an original Switch, wait times for loading screens will likely need to be adjusted.

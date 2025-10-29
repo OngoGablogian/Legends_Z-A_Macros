@@ -3,13 +3,13 @@
 <img src="/Macro-Images/Pokemon_Research_Lab.gif" />
 
 ### <ins>Info:</ins>
-This is useful for shiny hunting the Mareep and Pichu spawns in [Zone 1](https://www.serebii.net/pokearth/lumiosecity/wildzone1.shtml). Toggle the macro after fast traveling to the Pokemon Research Lab next to Zone 1.
+This is useful for shiny hunting the Mareep and Pichu spawns in [Zone 1](https://www.serebii.net/pokearth/lumiosecity/wildzone1.shtml). Toggle the macro after fast traveling to the Pokemon Research Lab next to Zone 1 and make sure the map is zoomed all the way out.
 
 ----
 
 ### Paste Into GP2040-CE Web Configurator.
 ```
-[{"buttonMask":512,"duration":100000,"waitDuration":0},{"buttonMask":0,"duration":100000,"waitDuration":700000},{"buttonMask":131072,"duration":25000,"waitDuration":500000},{"buttonMask":2,"duration":100000,"waitDuration":100000},{"buttonMask":0,"duration":100000,"waitDuration":700000},{"buttonMask":2,"duration":100000,"waitDuration":100000},{"buttonMask":0,"duration":100000,"waitDuration":3500000}]
+[{"buttonMask":512,"duration":100000,"waitDuration":0},{"buttonMask":0,"duration":100000,"waitDuration":700000},{"buttonMask":131072,"duration":25000,"waitDuration":0},{"buttonMask":0,"duration":100000,"waitDuration":500000},{"buttonMask":2,"duration":100000,"waitDuration":100000},{"buttonMask":0,"duration":100000,"waitDuration":700000},{"buttonMask":2,"duration":100000,"waitDuration":100000},{"buttonMask":0,"duration":100000,"waitDuration":3500000}]
 ```
 
 ----
@@ -24,7 +24,8 @@ This is useful for shiny hunting the Mareep and Pichu spawns in [Zone 1](https:/
 | :---: | :---: | :---: |
 | 100ms | Plus | release and wait: 0ms    |
 | 100ms | None | release and wait: 700ms  |
-| 25ms  | Down | release and wait: 500ms  |
+| 25ms  | Down | release and wait: 0ms    |
+| 100ms | None | release and wait: 500ms  |
 | 100ms | A    | release and wait: 100ms  |
 | 100ms | None | release and wait: 700ms  |
 | 100ms | A    | release and wait: 100ms  |
