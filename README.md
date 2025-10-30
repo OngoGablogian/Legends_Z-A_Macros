@@ -14,9 +14,12 @@ This repository contains Macros for controllers based on the [GP2040-CE](https:/
 * [Pokemon Research Lab](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Pokemon%20Research%20Lab.md)
 * [Zone 4](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%204.md)
 * [Zone 14](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2014.md)
+* [Zone 15](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2015.md)
 * [Zone 16](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2016.md)
 * [Zone 16 + Zone 5 Alpha Bellsprout](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2016%20%2B%20Zone%205%20Alpha%20Bellsprout.md)
+* [Zone 17](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2017.md)
 * [Zone 18 Alpha Salamence](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2018%20Alpha%20Salamence.md)
+* [Zone 19](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2019.md)
 * [Zone 20 Alpha](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2020%20Alpha.md)
 * [Zone 20 Fire Starters](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2020%20Fire%20Starters.md)
 * [Zone 20 Grass + Water Starters](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2020%20Grass%20%2B%20Water%20Starters.md)
@@ -25,7 +28,7 @@ This repository contains Macros for controllers based on the [GP2040-CE](https:/
 
 ## How to Use:
 
-* Each page includes a string of text that can be copied into the GP2040-CE web configurator. The raw values are also included and can be entered manually.
+* Each page includes a string of text that can be copied into the GP2040-CE web configurator. The raw values are also included and can be entered manually. This is useful if your controller is on an older version of the GP2040-CE firmware or you want to use them with other devices.
 
 * You can also download all the macros as text files from the [Releases Tab](https://github.com/OngoGablogian/Legends_Z-A_Macros/releases).
 
