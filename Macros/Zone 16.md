@@ -3,7 +3,7 @@
 <img src="/Macro-Images/Zone_16.gif" />
 
 ### <ins>Info:</ins>
-Similar to the "Zone 16 + Zone 5 Alpha Bellsprout" macro but with faster resets. Mostly for targeting the spawns in [Zone 16](https://www.serebii.net/pokearth/lumiosecity/wildzone16.shtml) (Alpha Ampharos, Flaaffy, Froakie, etc.). Toggle the macro after fast traveling to Zone 5 and make sure the map is zoomed all the way out.
+Similar to the "Zone 16 + Zone 5 Alpha Bellsprout" macro but with faster resets. Mostly for targeting the spawns in [Zone 16](https://www.serebii.net/pokearth/lumiosecity/wildzone16.shtml) (Alpha Ampharos, Flaaffy, Froakie, etc.). Toggle the macro after fast traveling to Zone 5 and [make sure the map is zoomed all the way out](https://github.com/OngoGablogian/Legends_Z-A_Macros?tab=readme-ov-file#map-zoom-info).
 
 ----
 

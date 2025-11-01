@@ -9,7 +9,7 @@ This can be used to cycle spawns using the "Bench Reset" method. Toggle the macr
 
 ### Paste Into GP2040-CE Web Configurator.
 ```
-[{"buttonMask":2,"duration":100000,"waitDuration":500000},{"buttonMask":2,"duration":100000,"waitDuration":500000},{"buttonMask":2,"duration":100000,"waitDuration":1000000},{"buttonMask":2,"duration":100000,"waitDuration":500000},{"buttonMask":2,"duration":100000,"waitDuration":500000},{"buttonMask":0,"duration":100000,"waitDuration":16000000},{"buttonMask":131072,"duration":100000,"waitDuration":100000},{"buttonMask":0,"duration":100000,"waitDuration":100000}]
+[{"buttonMask":2,"duration":100000,"waitDuration":500000},{"buttonMask":2,"duration":100000,"waitDuration":500000},{"buttonMask":2,"duration":100000,"waitDuration":1000000},{"buttonMask":2,"duration":100000,"waitDuration":500000},{"buttonMask":2,"duration":100000,"waitDuration":500000},{"buttonMask":0,"duration":100000,"waitDuration":15500000},{"buttonMask":131072,"duration":100000,"waitDuration":0},{"buttonMask":0,"duration":100000,"waitDuration":100000}]
 ```
 
 ----
@@ -27,8 +27,8 @@ This can be used to cycle spawns using the "Bench Reset" method. Toggle the macr
 | 100 | A    | release and wait: 1000  |
 | 100 | A    | release and wait: 500   |
 | 100 | A    | release and wait: 500   |
-| 100 | None | release and wait: 16000 |
-| 100 | Down | release and wait: 100   |
+| 100 | None | release and wait: 15500 |
+| 100 | Down | release and wait: 0     |
 | 100 | None | release and wait: 100   |
 
 ----

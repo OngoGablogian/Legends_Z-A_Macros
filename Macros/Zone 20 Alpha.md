@@ -3,7 +3,7 @@
 <img src="/Macro-Images/Zone_20_Alpha.gif" />
 
 ### <ins>Info:</ins>
-This is useful for shiny hunting the two alpha Pokémon in [Zone 20](https://www.serebii.net/pokearth/lumiosecity/wildzone20.shtml) as well as some of the surrounding spawns. Toggle the macro after fast traveling to Zone 20 and make sure the map is zoomed all the way out.
+This is useful for shiny hunting the two alpha Pokémon in [Zone 20](https://www.serebii.net/pokearth/lumiosecity/wildzone20.shtml) as well as some of the surrounding spawns. Toggle the macro after fast traveling to Zone 20 and [make sure the map is zoomed all the way out](https://github.com/OngoGablogian/Legends_Z-A_Macros?tab=readme-ov-file#map-zoom-info).
 
 ----
 

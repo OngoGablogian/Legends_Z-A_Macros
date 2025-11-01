@@ -3,7 +3,7 @@
 <img src="/Macro-Images/Zone_16_Zone_5_Alpha_Bellsprout.gif" />
 
 ### <ins>Info:</ins>
-This is useful for shiny hunting some spawns in [Zone 16](https://www.serebii.net/pokearth/lumiosecity/wildzone16.shtml) (Alpha Ampharos, Flaaffy, Froakie, etc.) as well as [Zone 5](https://www.serebii.net/pokearth/lumiosecity/wildzone5.shtml) (Venipede, Bunnelby, Bellsprout, Alpha Bellsprout, etc.). Toggle the macro after fast traveling to Zone 5 and make sure the map is zoomed all the way out.
+This is useful for shiny hunting some spawns in [Zone 16](https://www.serebii.net/pokearth/lumiosecity/wildzone16.shtml) (Alpha Ampharos, Flaaffy, Froakie, etc.) as well as [Zone 5](https://www.serebii.net/pokearth/lumiosecity/wildzone5.shtml) (Venipede, Bunnelby, Bellsprout, Alpha Bellsprout, etc.). Toggle the macro after fast traveling to Zone 5 and [make sure the map is zoomed all the way out](https://github.com/OngoGablogian/Legends_Z-A_Macros?tab=readme-ov-file#map-zoom-info).
 
 ----
 

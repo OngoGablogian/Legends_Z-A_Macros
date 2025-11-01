@@ -3,9 +3,7 @@ Pokémon Legends: Z-A - Macros for GP2040-CE Controllers:
 	https://github.com/OngoGablogian/Legends_Z-A_Macros
 ========================================================
 
-* Macro Name: Zone 20 Grass + Water Starters
-* Macro Activation Type: Toggle
-* DISABLE "Show Frames" and make sure values are displayed in "ms".
+# Zone 20 Grass + Water Starters
 
 Info:
 	This is useful for shiny hunting the grass and water starters in Zone 20 as well as some of the surrounding spawns. Toggle the macro after fast traveling to Zone 20 and make sure the map is zoomed all the way out.
@@ -13,6 +11,12 @@ Info:
 ======================================================================================================================================
 Values:
 =======
+
+* Macro Name: Zone 20 Grass + Water Starters
+* Macro Activation Type: Toggle
+* DISABLE "Show Frames" and make sure values are displayed in "ms".
+
+| Hold Time | Buttons        | Release and Wait         |
 
 | 8000ms | B + Up + Right | release and wait: 0ms    |
 | 100ms  | None           | release and wait: 100ms  |

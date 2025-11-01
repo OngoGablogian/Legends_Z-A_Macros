@@ -3,9 +3,7 @@ Pokémon Legends: Z-A - Macros for GP2040-CE Controllers:
 	https://github.com/OngoGablogian/Legends_Z-A_Macros
 ========================================================
 
-* Macro Name: Pokemon Research Lab
-* Macro Activation Type: Toggle
-* DISABLE "Show Frames" and make sure values are displayed in "ms".
+# Pokemon Research Lab
 
 Info:
 	This is useful for shiny hunting the Mareep and Pichu spawns in Zone 1. Toggle the macro after fast traveling to the Pokemon Research Lab next to Zone 1 and make sure the map is zoomed all the way out.
@@ -13,6 +11,10 @@ Info:
 ======================================================================================================================================
 Values:
 =======
+
+* Macro Name: Pokemon Research Lab
+* Macro Activation Type: Toggle
+* DISABLE "Show Frames" and make sure values are displayed in "ms".
 
 | 100ms | Plus | release and wait: 0ms    |
 | 100ms | None | release and wait: 700ms  |

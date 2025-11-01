@@ -3,9 +3,7 @@ Pokémon Legends: Z-A - Macros for GP2040-CE Controllers:
 	https://github.com/OngoGablogian/Legends_Z-A_Macros
 ========================================================
 
-* Macro Name: Zone 16
-* Macro Activation Type: Toggle
-* DISABLE "Show Frames" and make sure values are displayed in "ms".
+# Zone 16
 
 Info:
 	Similar to the "Zone 16 + Zone 5 Alpha Bellsprout" macro but with faster resets. Mostly for targeting the spawns in Zone 16 (Alpha Ampharos, Flaaffy, Froakie, etc.). Toggle the macro after fast traveling to Zone 5 and make sure the map is zoomed all the way out.
@@ -13,6 +11,10 @@ Info:
 ======================================================================================================================================
 Values:
 =======
+
+* Macro Name: Zone 16
+* Macro Activation Type: Toggle
+* DISABLE "Show Frames" and make sure values are displayed in "ms".
 
 | 100ms | Plus | release and wait: 0ms    |
 | 100ms | None | release and wait: 700ms  |

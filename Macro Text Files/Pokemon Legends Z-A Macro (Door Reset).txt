@@ -3,9 +3,7 @@ Pokémon Legends: Z-A - Macros for GP2040-CE Controllers:
 	https://github.com/OngoGablogian/Legends_Z-A_Macros
 ========================================================
 
-* Macro Name: Door Reset
-* Macro Activation Type: Toggle
-* DISABLE "Show Frames" and make sure values are displayed in "ms".
+# Door Reset
 
 Info:
 	This can be used with stair sets (ex. Wild Area 4) as well as doors that require pressing "A" to enter and exit. Toggle the macro when directly facing doors or stairs.
@@ -13,6 +11,10 @@ Info:
 ======================================================================================================================================
 Values:
 =======
+
+* Macro Name: Door Reset
+* Macro Activation Type: Toggle
+* DISABLE "Show Frames" and make sure values are displayed in "ms".
 
 | 650ms | Down | release and wait: 100ms |
 | 100ms | A    | release and wait: 100ms |

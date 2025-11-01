@@ -3,9 +3,7 @@ Pokémon Legends: Z-A - Macros for GP2040-CE Controllers:
 	https://github.com/OngoGablogian/Legends_Z-A_Macros
 ========================================================
 
-* Macro Name: Zone 16 + Zone 5 Alpha Bellsprout
-* Macro Activation Type: Toggle
-* DISABLE "Show Frames" and make sure values are displayed in "ms".
+# Zone 16 + Zone 5 Alpha Bellsprout
 
 Info:
 	This is useful for shiny hunting some spawns in Zone 16 (Alpha Ampharos, Flaaffy, Froakie, etc.) as well as Zone 5 (Venipede, Bunnelby, Bellsprout, Alpha Bellsprout, etc.). Toggle the macro after fast traveling to Zone 5 and make sure the map is zoomed all the way out.
@@ -13,6 +11,10 @@ Info:
 ======================================================================================================================================
 Values:
 =======
+
+* Macro Name: Zone 16 + Zone 5 Alpha Bellsprout
+* Macro Activation Type: Toggle
+* DISABLE "Show Frames" and make sure values are displayed in "ms".
 
 | 100ms  | A      | release and wait: 100ms  |
 | 100ms  | None   | release and wait: 2400ms |

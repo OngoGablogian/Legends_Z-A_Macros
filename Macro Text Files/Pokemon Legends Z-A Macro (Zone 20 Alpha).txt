@@ -3,9 +3,7 @@ Pokémon Legends: Z-A - Macros for GP2040-CE Controllers:
 	https://github.com/OngoGablogian/Legends_Z-A_Macros
 ========================================================
 
-* Macro Name: Zone 20 Alpha
-* Macro Activation Type: Toggle
-* DISABLE "Show Frames" and make sure values are displayed in "ms".
+# Zone 20 Alpha
 
 Info:
 	This is useful for shiny hunting the two alpha Pokémon in Zone 20 as well as some of the surrounding spawns. Toggle the macro after fast traveling to Zone 20 and make sure the map is zoomed all the way out.
@@ -13,6 +11,10 @@ Info:
 ======================================================================================================================================
 Values:
 =======
+
+* Macro Name: Zone 20 Alpha
+* Macro Activation Type: Toggle
+* DISABLE "Show Frames" and make sure values are displayed in "ms".
 
 | 500ms  | B + Up          | release and wait: 0ms    |
 | 100ms  | A               | release and wait: 100ms  |

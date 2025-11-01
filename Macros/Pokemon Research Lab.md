@@ -3,7 +3,7 @@
 <img src="/Macro-Images/Pokemon_Research_Lab.gif" />
 
 ### <ins>Info:</ins>
-This is useful for shiny hunting the Mareep and Pichu spawns in [Zone 1](https://www.serebii.net/pokearth/lumiosecity/wildzone1.shtml). Toggle the macro after fast traveling to the Pokemon Research Lab next to Zone 1 and make sure the map is zoomed all the way out.
+This is useful for shiny hunting the Mareep and Pichu spawns in [Zone 1](https://www.serebii.net/pokearth/lumiosecity/wildzone1.shtml). Toggle the macro after fast traveling to the Pokemon Research Lab next to Zone 1 and [make sure the map is zoomed all the way out](https://github.com/OngoGablogian/Legends_Z-A_Macros?tab=readme-ov-file#map-zoom-info).
 
 ----
 

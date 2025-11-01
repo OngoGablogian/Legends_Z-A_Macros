@@ -3,9 +3,7 @@ Pokémon Legends: Z-A - Macros for GP2040-CE Controllers:
 	https://github.com/OngoGablogian/Legends_Z-A_Macros
 ========================================================
 
-* Macro Name: Lysandre Lab Honedge
-* Macro Activation Type: Toggle
-* DISABLE "Show Frames" and make sure values are displayed in "ms".
+# Lysandre Lab Honedge
 
 Info:
 	Easy shiny hunt for the Lysandre Lab Honedge & Doublade Spawns. Toggle the macro after exiting the teleporter that's located in the area where the Honedge and Doublade Spawn.
@@ -13,6 +11,10 @@ Info:
 ======================================================================================================================================
 Values:
 =======
+
+* Macro Name: Lysandre Lab Honedge
+* Macro Activation Type: Toggle
+* DISABLE "Show Frames" and make sure values are displayed in "ms".
 
 | 2500ms | B + Up   | release and wait: 100ms |
 | 100ms  | None     | release and wait: 500ms |

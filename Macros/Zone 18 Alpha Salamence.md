@@ -3,7 +3,7 @@
 <img src="/Macro-Images/Zone_18_Alpha_Salamence.gif" />
 
 ### <ins>Info:</ins>
-This is useful for shiny hunting the Alpha Salamence in [Zone 18](https://www.serebii.net/pokearth/lumiosecity/wildzone18.shtml) as well as some surrounding spawns. Toggle the macro after fast traveling to Zone 18 and make sure the map is zoomed all the way out.
+This is useful for shiny hunting the Alpha Salamence in [Zone 18](https://www.serebii.net/pokearth/lumiosecity/wildzone18.shtml) as well as some surrounding spawns. Toggle the macro after fast traveling to Zone 18 and [make sure the map is zoomed all the way out](https://github.com/OngoGablogian/Legends_Z-A_Macros?tab=readme-ov-file#map-zoom-info).
 
 ----
 

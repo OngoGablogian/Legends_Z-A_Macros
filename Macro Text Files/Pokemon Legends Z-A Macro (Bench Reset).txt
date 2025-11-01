@@ -3,9 +3,7 @@ Pokémon Legends: Z-A - Macros for GP2040-CE Controllers:
 	https://github.com/OngoGablogian/Legends_Z-A_Macros
 ========================================================
 
-* Macro Name: Bench Reset
-* Macro Activation Type: Toggle
-* DISABLE "Show Frames" and make sure values are displayed in "ms".
+# Bench Reset
 
 Info:
 	This can be used to cycle spawns using the "Bench Reset" method. Toggle the macro when facing a bench.
@@ -14,17 +12,21 @@ Info:
 Values:
 =======
 
+* Macro Name: Bench Reset
+* Macro Activation Type: Toggle
+* DISABLE "Show Frames" and make sure values are displayed in "ms".
+
 | 100 | A    | release and wait: 500   |
 | 100 | A    | release and wait: 500   |
 | 100 | A    | release and wait: 1000  |
 | 100 | A    | release and wait: 500   |
 | 100 | A    | release and wait: 500   |
-| 100 | None | release and wait: 16000 |
-| 100 | Down | release and wait: 100   |
+| 100 | None | release and wait: 15500 |
+| 100 | Down | release and wait: 0     |
 | 100 | None | release and wait: 100   |
 
 ======================================================================================================================================
 
-[{"buttonMask":2,"duration":100000,"waitDuration":500000},{"buttonMask":2,"duration":100000,"waitDuration":500000},{"buttonMask":2,"duration":100000,"waitDuration":1000000},{"buttonMask":2,"duration":100000,"waitDuration":500000},{"buttonMask":2,"duration":100000,"waitDuration":500000},{"buttonMask":0,"duration":100000,"waitDuration":16000000},{"buttonMask":131072,"duration":100000,"waitDuration":100000},{"buttonMask":0,"duration":100000,"waitDuration":100000}]
+[{"buttonMask":2,"duration":100000,"waitDuration":500000},{"buttonMask":2,"duration":100000,"waitDuration":500000},{"buttonMask":2,"duration":100000,"waitDuration":1000000},{"buttonMask":2,"duration":100000,"waitDuration":500000},{"buttonMask":2,"duration":100000,"waitDuration":500000},{"buttonMask":0,"duration":100000,"waitDuration":15500000},{"buttonMask":131072,"duration":100000,"waitDuration":0},{"buttonMask":0,"duration":100000,"waitDuration":100000}]
 
 ======================================================================================================================================

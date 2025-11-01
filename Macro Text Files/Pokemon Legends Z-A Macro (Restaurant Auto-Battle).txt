@@ -3,9 +3,7 @@ Pokémon Legends: Z-A - Macros for GP2040-CE Controllers:
 	https://github.com/OngoGablogian/Legends_Z-A_Macros
 ========================================================
 
-* Macro Name: Restaurant Auto-Battle
-* Macro Activation Type: Toggle
-* DISABLE "Show Frames" and make sure values are displayed in "ms".
+# Restaurant Auto-Battle
 
 Info:
 	This can be used to auto-battle restaurant trainers. Perfect for completing the "Winning Pokemon Battles" research requests to unlock the Shiny Charm. Make sure your priority move is bound to the "A" button.
@@ -13,6 +11,10 @@ Info:
 ======================================================================================================================================
 Values:
 =======
+
+* Macro Name: Restaurant Auto-Battle
+* Macro Activation Type: Toggle
+* DISABLE "Show Frames" and make sure values are displayed in "ms".
 
 | 500ms | ZL     | release and wait: 0ms   |
 | 100ms | A + ZL | release and wait: 100ms |

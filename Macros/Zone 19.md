@@ -3,7 +3,7 @@
 <img src="/Macro-Images/Zone_19.gif" />
 
 ### <ins>Info:</ins>
-This is useful for shiny hunting in [Zone 19](https://www.serebii.net/pokearth/lumiosecity/wildzone19.shtml). Toggle the macro after fast traveling to Zone 19 and make sure the map is zoomed all the way out.
+This is useful for shiny hunting in [Zone 19](https://www.serebii.net/pokearth/lumiosecity/wildzone19.shtml). Toggle the macro after fast traveling to Zone 19 and [make sure the map is zoomed all the way out](https://github.com/OngoGablogian/Legends_Z-A_Macros?tab=readme-ov-file#map-zoom-info).
 
 ----
 
