@@ -6,8 +6,9 @@ This repository contains Macros for controllers based on the [GP2040-CE](https:/
 
 ## Included Macros:
 
-* [Door Reset](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Door%20Reset.md)
 * [Bench Reset](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Bench%20Reset.md)
+* [Door Reset](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Door%20Reset.md)
+* [Donut Reset](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Donut%20Reset.md)
 * [Turbo A](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Turbo%20A.md)
 * [Restaurant Auto-Battle](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Restaurant%20Auto%20Battle.md)
 * [Lysandre Lab Honedge](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Lysandre%20Lab%20Honedge.md)
@@ -26,6 +27,8 @@ This repository contains Macros for controllers based on the [GP2040-CE](https:/
 * [Zone 20 Alpha](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2020%20Alpha.md)
 * [Zone 20 Fire Starters](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2020%20Fire%20Starters.md)
 * [Zone 20 Grass + Water Starters](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2020%20Grass%20%2B%20Water%20Starters.md)
+* [Zone 20 Grass + Water Starters (Alt)](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2020%20Grass%20%2B%20Water%20Starters.md)
+* [Hyperspace](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Hyperspace.md)
 
 ----
 
@@ -46,7 +49,7 @@ This repository contains Macros for controllers based on the [GP2040-CE](https:/
 ----
 
 > [!WARNING]  
-> These macros were made for the Switch 2 Edition of the game. If you are playing on an original Switch, wait times for loading screens will likely need to be adjusted.
+> These macros were made for the Switch 2 Edition of the game in docked mode. If you are playing on an original Switch, wait times for loading screens will likely need to be adjusted.
 
 > [!CAUTION]
 > Be aware that the cut scenes for the day and night cycle will de-sync some of these macros, specifically the ones involving character movement.
