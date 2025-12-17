@@ -27,7 +27,7 @@ This repository contains Macros for controllers based on the [GP2040-CE](https:/
 * [Zone 20 Alpha](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2020%20Alpha.md)
 * [Zone 20 Fire Starters](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2020%20Fire%20Starters.md)
 * [Zone 20 Grass + Water Starters](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2020%20Grass%20%2B%20Water%20Starters.md)
-* [Zone 20 Grass + Water Starters (Alt)](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2020%20Grass%20%2B%20Water%20Starters.md)
+* [Zone 20 Grass + Water Starters (Alt)](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2020%20Grass%20%2B%20Water%20Starters%20Alt.md)
 * [Hyperspace](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Hyperspace.md)
 
 ----
