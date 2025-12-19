@@ -3,7 +3,7 @@
 <img src="/Macro-Images/Hyperspace.gif" />
 
 ### <ins>Info:</ins>
-This is useful for shiny hunting in [Hyperspace Lumiose](https://www.serebii.net/legendsz-a/hyperspacelumiose.shtml). Toggle the macro after entering Hyperspace and [make sure the map is zoomed all the way out](https://github.com/OngoGablogian/Legends_Z-A_Macros?tab=readme-ov-file#map-zoom-info).
+This is useful for shiny hunting in [Hyperspace Lumiose](https://www.serebii.net/legendsz-a/hyperspacelumiose.shtml). Toggle the macro after entering Hyperspace.
 
 ----
 

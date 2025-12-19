@@ -9,6 +9,7 @@ This repository contains Macros for controllers based on the [GP2040-CE](https:/
 * [Bench Reset](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Bench%20Reset.md)
 * [Door Reset](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Door%20Reset.md)
 * [Donut Reset](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Donut%20Reset.md)
+* [Donut Reset (Alt)](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Donut%20Reset%20Alt.md)
 * [Turbo A](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Turbo%20A.md)
 * [Restaurant Auto-Battle](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Restaurant%20Auto%20Battle.md)
 * [Lysandre Lab Honedge](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Lysandre%20Lab%20Honedge.md)

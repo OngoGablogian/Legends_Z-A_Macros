@@ -3,7 +3,10 @@
 <img src="/Macro-Images/Donut_Reset.gif" />
 
 ### <ins>Info:</ins>
-This can be used to reset your game when making donuts if you don't get the result you want. Use the Pokécenter east of Hotel Z to make a backup save. Please be aware that this closes the game and loads from a backup save, use with caution.
+This can be used to reset your game when making donuts if you don't get the result you want and would like to reclaim your berries. Make sure to use the Pokécenter east of Hotel Z to make a backup save, then toggle the macro after making a donut that you want to discard.
+
+> [!CAUTION]
+> Please be aware that this macro closes the game and loads from backup data; use with caution.
 
 ----
 

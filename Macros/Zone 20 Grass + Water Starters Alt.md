@@ -1,4 +1,4 @@
-# Zone 20 Grass + Water Starters Alt:
+# Zone 20 Grass + Water Starters (Alt):
 
 <img src="/Macro-Images/Zone_20_Grass_Water_Starters_Alt.gif" />
 
@@ -16,7 +16,7 @@ This is useful for shiny hunting the grass and water starters in [Zone 20](https
 
 ## Values:
 
-* Macro Name: Zone 20 Grass + Water Starters Alt
+* Macro Name: Zone 20 Grass + Water Starters (Alt)
 * Macro Activation Type: Toggle
 * DISABLE "Show Frames" and make sure values are displayed in "ms".
 
