@@ -8,6 +8,7 @@ This repository contains Macros for controllers based on the [GP2040-CE](https:/
 
 * [Bench Reset](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Bench%20Reset.md)
 * [Door Reset](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Door%20Reset.md)
+* [Distortion Refresh](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Distortion%20Refresh.md)
 * [Donut Reset](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Donut%20Reset.md)
 * [Donut Reset (Alt)](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Donut%20Reset%20Alt.md)
 * [Turbo A](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Turbo%20A.md)
@@ -49,7 +50,7 @@ This repository contains Macros for controllers based on the [GP2040-CE](https:/
 
 ----
 
-> [!WARNING]  
+> [!WARNING]
 > These macros were made for the Switch 2 Edition of the game in docked mode. If you are playing on an original Switch, wait times for loading screens will likely need to be adjusted.
 
 > [!CAUTION]
