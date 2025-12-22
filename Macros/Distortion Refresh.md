@@ -22,18 +22,18 @@ This can be used to refresh the distortions on the map by using bench resets. Ac
 
 | Hold Time | Buttons | Release and Wait |
 | :---: | :---: | :---: |
-| 100 | B     | release and wait: 0     |
-| 100 | None  | release and wait: 200   |
-| 100 | Down  | release and wait: 500   |
-| 100 | A     | release and wait: 500   |
-| 100 | A     | release and wait: 500   |
-| 100 | A     | release and wait: 1000  |
-| 100 | A     | release and wait: 500   |
-| 100 | A     | release and wait: 500   |
-| 100 | None  | release and wait: 15250 |
-| 100 | Plus  | release and wait: 0     |
-| 100 | None  | release and wait: 700   |
-| 100 | Minus | release and wait: 0     |
+| 100ms | B     | release and wait: 0ms     |
+| 100ms | None  | release and wait: 200ms   |
+| 100ms | Down  | release and wait: 500ms   |
+| 100ms | A     | release and wait: 500ms   |
+| 100ms | A     | release and wait: 500ms   |
+| 100ms | A     | release and wait: 1000ms  |
+| 100ms | A     | release and wait: 500ms   |
+| 100ms | A     | release and wait: 500ms   |
+| 100ms | None  | release and wait: 15250ms |
+| 100ms | Plus  | release and wait: 0ms     |
+| 100ms | None  | release and wait: 700ms   |
+| 100ms | Minus | release and wait: 0ms     |
 
 ----
 

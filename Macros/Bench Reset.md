@@ -22,14 +22,14 @@ This can be used to cycle spawns using the "Bench Reset" method. Toggle the macr
 
 | Hold Time | Buttons | Release and Wait |
 | :---: | :---: | :---: |
-| 100 | A    | release and wait: 500   |
-| 100 | A    | release and wait: 500   |
-| 100 | A    | release and wait: 1000  |
-| 100 | A    | release and wait: 500   |
-| 100 | A    | release and wait: 500   |
-| 100 | None | release and wait: 15500 |
-| 100 | Down | release and wait: 0     |
-| 100 | None | release and wait: 100   |
+| 100ms | A    | release and wait: 500ms   |
+| 100ms | A    | release and wait: 500ms   |
+| 100ms | A    | release and wait: 1000ms  |
+| 100ms | A    | release and wait: 500ms   |
+| 100ms | A    | release and wait: 500ms   |
+| 100ms | None | release and wait: 15500ms |
+| 100ms | Down | release and wait: 0ms     |
+| 100ms | None | release and wait: 100ms   |
 
 ----
 

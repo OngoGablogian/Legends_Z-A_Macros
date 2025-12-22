@@ -25,35 +25,35 @@ This can be used to reset your game when making donuts if you don't get the resu
 
 | Hold Time | Buttons | Release and Wait |
 | :---: | :---: | :---: |
-| 100  | Home       | release and wait: 0ms    |
-| 100  | None       | release and wait: 700ms  |
-| 100  | X          | release and wait: 300ms  |
-| 100  | A          | release and wait: 600ms  |
-| 100  | A          | release and wait: 900ms  |
-| 100  | A          | release and wait: 7500ms |
-| 100  | B + X + Up | release and wait: 0ms    |
-| 100  | None       | release and wait: 800ms  |
-| 100  | A          | release and wait: 800ms  |
-| 100  | A          | release and wait: 800ms  |
-| 100  | A          | release and wait: 0ms    |
-| 100  | None       | release and wait: 7000ms |
-| 100  | Plus       | release and wait: 0ms    |
-| 100  | None       | release and wait: 700ms  |
-| 200  | Left       | release and wait: 0ms    |
-| 100  | None       | release and wait: 500ms  |
-| 100  | A          | release and wait: 100ms  |
-| 100  | None       | release and wait: 700ms  |
-| 100  | A          | release and wait: 100ms  |
-| 100  | None       | release and wait: 3000ms |
-| 1000 | B + Up     | release and wait: 0ms    |
-| 100  | A          | release and wait: 0ms    |
-| 100  | None       | release and wait: 3000ms |
-| 1600 | B + Up     | release and wait: 0ms    |
-| 100  | Left       | release and wait: 0ms    |
-| 100  | None       | release and wait: 100ms  |
-| 100  | A          | release and wait: 500ms  |
-| 100  | A          | release and wait: 500ms  |
-| 100  | A          | release and wait: 0ms    |
+| 100ms  | Home       | release and wait: 0ms    |
+| 100ms  | None       | release and wait: 700ms  |
+| 100ms  | X          | release and wait: 300ms  |
+| 100ms  | A          | release and wait: 600ms  |
+| 100ms  | A          | release and wait: 900ms  |
+| 100ms  | A          | release and wait: 7500ms |
+| 100ms  | B + X + Up | release and wait: 0ms    |
+| 100ms  | None       | release and wait: 800ms  |
+| 100ms  | A          | release and wait: 800ms  |
+| 100ms  | A          | release and wait: 800ms  |
+| 100ms  | A          | release and wait: 0ms    |
+| 100ms  | None       | release and wait: 7000ms |
+| 100ms  | Plus       | release and wait: 0ms    |
+| 100ms  | None       | release and wait: 700ms  |
+| 200ms  | Left       | release and wait: 0ms    |
+| 100ms  | None       | release and wait: 500ms  |
+| 100ms  | A          | release and wait: 100ms  |
+| 100ms  | None       | release and wait: 700ms  |
+| 100ms  | A          | release and wait: 100ms  |
+| 100ms  | None       | release and wait: 3000ms |
+| 1000ms | B + Up     | release and wait: 0ms    |
+| 100ms  | A          | release and wait: 0ms    |
+| 100ms  | None       | release and wait: 3000ms |
+| 1600ms | B + Up     | release and wait: 0ms    |
+| 100ms  | Left       | release and wait: 0ms    |
+| 100ms  | None       | release and wait: 100ms  |
+| 100ms  | A          | release and wait: 500ms  |
+| 100ms  | A          | release and wait: 500ms  |
+| 100ms  | A          | release and wait: 0ms    |
 
 ----
 
