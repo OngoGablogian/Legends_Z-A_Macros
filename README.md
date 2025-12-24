@@ -6,6 +6,7 @@ This repository contains Macros for controllers based on the [GP2040-CE](https:/
 
 ## Included Macros:
 
+* [Soft Reset](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Soft%20Reset.md)
 * [Bench Reset](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Bench%20Reset.md)
 * [Door Reset](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Door%20Reset.md)
 * [Distortion Refresh](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Distortion%20Refresh.md)
@@ -32,6 +33,7 @@ This repository contains Macros for controllers based on the [GP2040-CE](https:/
 * [Zone 20 Grass + Water Starters (Alt)](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Zone%2020%20Grass%20%2B%20Water%20Starters%20Alt.md)
 * [Hyperspace](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Hyperspace.md)
 * [Latios Soft Reset](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Latios%20Soft%20Reset.md)
+* [Terrakion Reset](https://github.com/OngoGablogian/Legends_Z-A_Macros/blob/main/Macros/Terrakion%20Reset.md)
 
 ----
 
